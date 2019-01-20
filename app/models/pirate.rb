@@ -1,6 +1,6 @@
 class Pirate
   def initialize(name, weight, height)
-    @name = name 
+    @name = name
     @weight = weight
     @height = height
   end
